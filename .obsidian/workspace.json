@@ -11,10 +11,14 @@
             "id": "9134100429903e0f",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Data Science/결측치 처리.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "새 탭"
+              "title": "결측치 처리"
             }
           }
         ]
@@ -173,7 +177,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "3ba2f47f6594196e",
+  "active": "9134100429903e0f",
   "lastOpenFiles": [
     "무제.base",
     "무제.md",
