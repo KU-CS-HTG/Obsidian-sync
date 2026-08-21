@@ -1,0 +1,1 @@
+ARIMA(Autoregressive Integrated Moving average)는 시계열 데이터 분석에 활용되는 모델 중 하나로, 다른 시계열 모델들이 시계열 데이터의 Stationary(데이터의 확률적 특성이 시간이 지나도 유지될 것으로 가정)를 전제로 하는 반면에 차분이라는 개념을 도입하여 non-stationary 상황에서도 더 나은 예측을 할 수 있는 것이 특징이다.
