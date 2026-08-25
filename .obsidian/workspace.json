@@ -13,12 +13,16 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Data Science/map.md",
+                "file": "Data Science/결측치 처리.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
+<<<<<<< HEAD
               "title": "map"
+=======
+              "title": "결측치 처리"
+>>>>>>> 60408e6d546510db1a861c769f9c3a2d7bbe3cf7
             }
           }
         ]
@@ -147,6 +151,7 @@
               "icon": "lucide-list",
               "title": "Outline of Welcome"
             }
+<<<<<<< HEAD
           }
         ]
       }
@@ -158,25 +163,60 @@
   "left-ribbon": {
     "hiddenItems": {
       "obsidian-git:Open Git source control": false,
+=======
+          },
+          {
+            "id": "db2fcb9b46c42d46",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+>>>>>>> 60408e6d546510db1a861c769f9c3a2d7bbe3cf7
       "bases:새 베이스 생성하기": false,
       "switcher:빠른 전환기 열기": false,
       "daily-notes:오늘의 일일 노트 열기": false,
       "graph:그래프 뷰 열기": false,
       "canvas:새 캔버스 만들기": false,
       "templates:템플릿 삽입": false,
+<<<<<<< HEAD
       "command-palette:명령어 팔레트 열기": false
+=======
+      "command-palette:명령어 팔레트 열기": false,
+      "obsidian-git:Open Git source control": false
+>>>>>>> 60408e6d546510db1a861c769f9c3a2d7bbe3cf7
     }
   },
   "active": "9134100429903e0f",
   "lastOpenFiles": [
+<<<<<<< HEAD
     "이미지 모음/Pasted image 20260825095216.png",
     "Data Science/map.md",
     "Data Science/결측치 처리.md",
     "Data Science/컬럼 추가, 삭제.md",
+=======
+>>>>>>> 60408e6d546510db1a861c769f9c3a2d7bbe3cf7
     "무제.base",
     "무제.md",
     "무제 1.base",
     "Data Science/함수 이름 정리.md",
+<<<<<<< HEAD
+=======
+    "Data Science/컬럼 추가, 삭제.md",
+    "Data Science/결측치 처리.md",
+>>>>>>> 60408e6d546510db1a861c769f9c3a2d7bbe3cf7
     "이미지 모음/Pasted image 20260819155726.png",
     "Data Science/replace.md",
     "이미지 모음/Pasted image 20260819155857.png",
@@ -195,6 +235,10 @@
     "이미지 모음/Pasted image 20260819155238.png",
     "이미지 모음/Pasted image 20260819155207.png",
     "이미지 모음/Pasted image 20260819153135.png",
+<<<<<<< HEAD
+=======
+    "이미지 모음/Pasted image 20260819153106.png",
+>>>>>>> 60408e6d546510db1a861c769f9c3a2d7bbe3cf7
     "Data Science/pd.DataFrame.md",
     "이미지 모음",
     "Computer Science/CS 목차 정리.md",
@@ -209,6 +253,10 @@
     "Computer Science/Domain adaption.md",
     "Computer Science/BERT.md",
     "Computer Science/BART.md",
+<<<<<<< HEAD
+=======
+    "Computer Science/ARIMA.md",
+>>>>>>> 60408e6d546510db1a861c769f9c3a2d7bbe3cf7
     "Computer Science",
     "취미",
     "무제 폴더"
