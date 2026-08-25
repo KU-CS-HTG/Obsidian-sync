@@ -1,0 +1,216 @@
+{
+  "main": {
+    "id": "c49f5e0c1f0b60f8",
+    "type": "split",
+    "children": [
+      {
+        "id": "c674e816d52f8af4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9134100429903e0f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Data Science/map.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "map"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "b0e0686f12aa7f23",
+    "type": "split",
+    "children": [
+      {
+        "id": "152930a383f9993e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3ba2f47f6594196e",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-folder-closed",
+              "title": "파일 탐색기"
+            }
+          },
+          {
+            "id": "cd92afd0bfd2f0fa",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": " ",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "검색"
+            }
+          },
+          {
+            "id": "f0b9d635853110db",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "293f32c99f379502",
+    "type": "split",
+    "children": [
+      {
+        "id": "1d1c55977adecaf1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ec98042360c3fce9",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Welcome.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Welcome"
+            }
+          },
+          {
+            "id": "b12a3b44e09deb2d",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Welcome.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Welcome"
+            }
+          },
+          {
+            "id": "816002778834425d",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "45ab6a991921f932",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Welcome.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Welcome"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "obsidian-git:Open Git source control": false,
+      "bases:새 베이스 생성하기": false,
+      "switcher:빠른 전환기 열기": false,
+      "daily-notes:오늘의 일일 노트 열기": false,
+      "graph:그래프 뷰 열기": false,
+      "canvas:새 캔버스 만들기": false,
+      "templates:템플릿 삽입": false,
+      "command-palette:명령어 팔레트 열기": false
+    }
+  },
+  "active": "9134100429903e0f",
+  "lastOpenFiles": [
+    "이미지 모음/Pasted image 20260825095216.png",
+    "Data Science/map.md",
+    "Data Science/결측치 처리.md",
+    "Data Science/컬럼 추가, 삭제.md",
+    "무제.base",
+    "무제.md",
+    "무제 1.base",
+    "Data Science/함수 이름 정리.md",
+    "이미지 모음/Pasted image 20260819155726.png",
+    "Data Science/replace.md",
+    "이미지 모음/Pasted image 20260819155857.png",
+    "이미지 모음/Pasted image 20260819155756.png",
+    "Data Science/astype.md",
+    "Data Science/head, sample.md",
+    "Data Science/to_csv, read_csv.md",
+    "Data Science/sort_index.md",
+    "Data Science/loc, iloc.md",
+    "Data Science/필터링.md",
+    "이미지 모음/Pasted image 20260819145204.png",
+    "Data Science/isin.md",
+    "이미지 모음/Pasted image 20260819155458.png",
+    "이미지 모음/Pasted image 20260819155402.png",
+    "Data Science/shape, info, corr, describe.md",
+    "이미지 모음/Pasted image 20260819155238.png",
+    "이미지 모음/Pasted image 20260819155207.png",
+    "이미지 모음/Pasted image 20260819153135.png",
+    "Data Science/pd.DataFrame.md",
+    "이미지 모음",
+    "Computer Science/CS 목차 정리.md",
+    "Data Science",
+    "Computer Science/강화학습.md",
+    "Computer Science/구글의 E-A-T, YMYL.md",
+    "무제.canvas",
+    "2026-08-17.md",
+    "취미/취미 분야별 정리.md",
+    "Computer Science/컴퓨터비전.md",
+    "Computer Science/Federated learning.md",
+    "Computer Science/Domain adaption.md",
+    "Computer Science/BERT.md",
+    "Computer Science/BART.md",
+    "Computer Science",
+    "취미",
+    "무제 폴더"
+  ]
+}
