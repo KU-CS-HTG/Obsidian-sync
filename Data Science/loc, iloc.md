@@ -1,16 +1,18 @@
+**loc**
 df.loc[0, :] # loc로 인덱싱, 슬라이싱 수행 - loc[행 범위, 컬럼 범위]
 ![[Pasted image 20260819151641.png]]
 :로 범위를 지정 안하면 전부 출력
 
-loc를 활용한 값 추가, 변경
+**iloc**
+df.iloc[2] # iloc: loc는 값이라면 iloc는 순서(인덱스)를 의미한다(숫자만 가능, 0부터 셈)
+![[Pasted image 20260819152712.png]]
+df.iloc[0:2] # loc와 iloc 차이점 2: loc는 끝 인덱스 포함, iloc는 미포함
+![[Pasted image 20260819152734.png]]
+
+**loc, iloc를 활용한 값 추가, 변경**
 df.loc[0, "원산지"] = "콜롬비아" # 원산지 column 추가하고 그 중 index 0에 있는 값을 콜롬비아로 변경 (나머지는 nan임)
 df.loc[2:3, "원산지"] = "과테말라" # nan 값 2개를 변경
 df.loc["시즌"] = ["크리스마스라떼", 6000, 300, "한국"] # 시즌 행 추가
 df.loc[7] = {"메뉴" : "딴짓커피", "가격": 2000, "칼로리":20} # dictionary로도 추가 가능, {}사용, 언급 안된 건 nan으로 추가됨
 ![[Pasted image 20260819152447.png]]
 
-
-df.iloc[2] # iloc: loc는 값이라면 iloc는 순서(인덱스)를 의미한다(숫자만 가능, 0부터 셈)
-![[Pasted image 20260819152712.png]]
-df.iloc[0:2] # loc와 iloc 차이점 2: loc는 끝 인덱스 포함, iloc는 미포함
-![[Pasted image 20260819152734.png]]
